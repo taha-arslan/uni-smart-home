@@ -26,4 +26,4 @@ Most low-cost smart-home devices send commands with no encryption or authenticat
 - Plaintext vs encrypted traffic: [video link]
 
 ## Note
-This is an educational project. The token and key are placeholders (`YOUR_TOKEN_HERE`, `YOUR_KEY_HERE`) — set your own before running.
+This is an educational project. The token and key are placeholders (`YOUR_TOKEN_HERE`, `YOUR_KEY_HERE`), set your own before running.
